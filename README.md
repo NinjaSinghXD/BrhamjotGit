@@ -1,0 +1,3 @@
+Introduction:
+
+Our project revolves around the creation of an Air Quality Monitoring Embedded System designed to detect and quantify a diverse range of air pollutants in real-time. Utilizing components like the Arduino Uno and ESP-32 microcontrollers, coupled with sensors including the MQ-135, SGP41, and HM3301, our system enables comprehensive monitoring of gases such as carbon monoxide, carbon dioxide, nitrogen oxides, volatile organic compounds (VOCs), and particulate matter. Through seamless integration and careful calibration, our solution provides users with invaluable insights into the air quality landscape, facilitating informed decision-making and proactive environmental management.
